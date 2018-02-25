@@ -1,4 +1,13 @@
-# Website-Maker Information
+<div align="center">
+  <br />
+  <p>
+    <a href="#"><img src="http://api.chaottiic.com/wm/assets/static/images/github/main.jpg" width="546" alt="Website Maker" /></a>
+  </p>
+  <br />
+  <p>
+    <a href="https://discord.gg/C8GwkGz"><img src="https://discordapp.com/api/guilds/414139855828942849/embed.png" alt="Discord server" /></a>
+</div>
+
 
 This project is developed and maintained by [Chaottiic](https://chaottiic.com).
 
