@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="#"><img src="https://discordapp.com/widget?id=414139855828942849&theme=dark" width="546" alt="Website Maker" /></a>
+    <a href="#"><img src="http://api.chaottiic.com/wm/assets/static/images/github/main.jpg" width="546" alt="Website Maker" /></a>
   </p>
   <br />
   <p>
